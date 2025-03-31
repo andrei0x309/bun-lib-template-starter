@@ -1,0 +1,8 @@
+# exclude files not needed for lib
+node_modules
+.gitignore
+.git/*
+lib-tools/*
+lib.config.ts
+# exclude all from res
+res/*
