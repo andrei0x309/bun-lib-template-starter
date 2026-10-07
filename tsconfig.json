@@ -27,8 +27,6 @@
     "emitDeclarationOnly": true,
     "isolatedDeclarations": true,
     "outDir": "./dist",
-    "baseUrl": ".",
-    
   },
   "include": ["src/**/*.ts"],
 }
